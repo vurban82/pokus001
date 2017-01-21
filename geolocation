@@ -1,0 +1,5 @@
+if (navigator.geolocation) {
+	// Geolokace je dostupná a je možné pokračovat. 
+} else {
+	// Podpora pro geolokaci není dostupná.
+}
